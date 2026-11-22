@@ -1,0 +1,13 @@
+{
+  "name": "hand-cricket",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A free Hand Cricket team game. Phones join with a room code.",
+  "main": "hand-cricket.js",
+  "scripts": {
+    "start": "node hand-cricket.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
